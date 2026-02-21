@@ -121,3 +121,13 @@ Through this project, the following skills were developed:
 ## 🙌 Acknowledgment
 
 This project was created as part of hands-on practice in **Data Analysis using Python** to understand real-world sales data and generate meaningful insights.
+
+---
+
+## 📞 Contact
+
+**Kavit Patel**  
+📧 Email: [Contact by mail](mailto:kavitpatel1574.kp@gmail.com)  
+🔗 GitHub: [Kavit-shadow](https://github.com/Kavit-shadow)  
+💼 LinkedIn: [My Linkedin Profile](https://www.linkedin.com/in/kavit-patel-84597a26b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+📍 Location: Ahmedabad, Gujarat
